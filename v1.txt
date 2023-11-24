@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>my head sagnik new</title>
+		<title>my head sagnik new 2</title>
 	</head>
 	<body>
 		<h1>This is a heading</h1>
